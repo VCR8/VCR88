@@ -12,4 +12,5 @@ Linux (Admin), AWS, VMware, networking (TCP/IP, DNS, VPNs), Splunk SIEM, endpoin
 
 ## Certifications
 AWS Cloud Practitioner Certification – AWS (Oct 2024)
+
 Google Cybersecurity Certification – Google (May 2025)
