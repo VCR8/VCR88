@@ -11,11 +11,13 @@ My goal is to become a Tier 1 SOC Analyst or work in a cloud environment, where 
 Linux (Admin), AWS, VMware, networking (TCP/IP, DNS, VPNs), Splunk SIEM, endpoint security, Security Frameworks (NIST, OWASP), incident response, and security monitoring.
 
 ## Certifications
-<a href="https://www.linkedin.com/in/vaishnavi-challagundla-ramu-033085287/">
-  <img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+<a href="https://www.credly.com/badges/d2957c9c-a904-465e-920f-8beea606e3d0/linked_in?t=skzqk8">
+  <img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?&style=for-the-badge" />
 </a>
 
-<a href="https://www.linkedin.com/in/vaishnavi-challagundla-ramu-033085287/">
-  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certification-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+<a href="https://www.credly.com/badges/4e8cb010-48bc-475e-9be9-22e3725a4615/public_url">
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certification-4285F4?&style=for-the-badge" />
 </a>
+
+
 
