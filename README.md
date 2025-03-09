@@ -12,7 +12,7 @@ Linux (Admin), AWS, VMware, networking (TCP/IP, DNS, VPNs), Splunk SIEM, endpoin
 
 ## Certifications
 <a href="https://www.linkedin.com/in/vaishnavi-challagundla-ramu-033085287/">
-  <img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-F08C00?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/vaishnavi-challagundla-ramu-033085287/">
